@@ -1,0 +1,64 @@
+#instructorcards {
+  .container {
+    .cardDetails {
+      border-radius: 8px;
+      box-shadow: 0px 2px 12px #00000014;
+      max-height: 120px;
+      margin-bottom: 3rem;
+      align-items: center;
+      padding: 1rem;
+      
+    }
+    .course-names {
+      font-family: "Open Sans";
+      font-weight: bold;
+      font-size: 0.9rem;
+      color: #00040c;
+      opacity: 1;
+      width: 396px;
+      height: 45px;
+    }
+    .tag-published {
+      margin-top: 20px;
+      height: 28px;
+      font-size: 8px;
+      border-radius: 4px;
+      color: #f89206;
+      background-color: #ebe0d5;
+      width: 4.5rem;
+    }
+    .time-published {
+      font-weight: normal;
+      font-size: 11px;      
+      color: #999999;
+      opacity: 1;
+      margin-right: 35px;
+    }
+    .assignment {
+      width: 150px;
+      height: 19px;
+      font-size: 10px;
+      opacity: 1;
+      font-weight: bold;
+    }
+    .draft-tag {
+      margin-top: 20px;
+      height: 28px;
+      font-size: 8px;
+      border-radius: 4px;
+      width: auto;
+    }
+    .publish-tag {
+      margin-top: 20px;
+      height: 28px;
+      font-size: 8px;
+      border-radius: 4px;
+      width: auto;
+      color: #08c076;
+      background-color: #c9f1e1;
+    }
+    .published {
+      cursor: pointer;
+    }
+  }
+}

@@ -1,0 +1,196 @@
+.instutor-module {
+
+.main-container{
+    width: 60rem;
+    margin-top: 18vh;
+}
+.MuiTabs-indicator{
+    display: none !important;
+  }
+
+.lable-1 {
+    color: #040404 !important;
+    font-size: 19px;
+    margin-top: 10px;
+    font-weight: 600;
+    padding-left: 5%;
+}
+
+.lable-2 {
+    font-size: 14px;
+    color: #262626;
+}
+
+.lable-3 {
+    font-size: 14px;
+    color: #262626;
+}
+
+.lable-4 {
+    font-size: 14px;
+    color: #262626;
+}
+
+.number-item {
+    background-color: #1D366F !important;
+    margin-top: 13px;
+    margin-left: 170px;
+    font-size: 13px;
+}
+
+.number-item2 {
+    background-color: #1D366F;
+    margin-top: 13px;
+    font-size: 13px;
+}
+
+
+.number-item3 {
+    background-color: #1D366F;
+    margin-top: 13px;
+    font-size: 13px;
+}
+
+.add-detail {
+    font-size: 14px;
+    color: #666666;
+    font-weight: 500;
+}
+
+.input-field {
+    padding: 10px;
+    font-size: 16px;
+
+
+}
+
+.courses {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.drop-item {
+    background-color: #FFFFFF;
+    color: #D8D8D8;
+}
+
+
+.pair-button {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 35rem;
+}
+
+
+.select-input {
+    padding: 7px;
+    border-radius: 5px;
+    color: #999999;
+    font-size: 16px;
+    width: 100%;
+}
+
+.select-item {
+    padding: 7px;
+    border-radius: 5px;
+    color:  #999999;
+    font-size: 16px;
+}
+
+.select-detail {
+    font-size: 14px;
+    color: #666666;
+    font-weight: 500;
+    margin-left: 5px;
+}
+
+.select-skill {
+    font-size: 14px;
+    color: #666666;
+    font-weight: 500;
+}
+
+.select-option{
+    margin-right: 12px;
+}
+
+
+.thumbnail-upload{
+    border-style: dashed; 
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    border-color: #D8D8D8; 
+    height: 15vh;
+}
+
+.file-browser{
+    font-size: 14px;
+    color: #666666;
+    font-weight: 500;
+}
+
+.summary-short{
+    font-size: 12px ;
+    color: #999999;
+}
+
+.drag-file{
+    font-size: 14px;
+    color: #999999;
+}
+
+.category-item{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.skill-item{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.courses-page{
+display: flex;
+gap: 1rem;
+align-items: center;
+justify-content: space-between;
+}
+
+.image-supported{
+    color: #BEBEBE !important;
+    display: flex;
+    gap: 31rem;
+    font-size: 11px !important;
+    font-weight: 500;
+    
+}
+
+.about-space{
+    color: #666666 !important;
+    font-weight: 600;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.summary-space{
+    font-size: 12px !important;
+    color: #999999;
+
+}
+
+.enter-course{
+    width: 100%;
+    border-color: #D8D8D8;
+    border-radius: 5px;
+ 
+
+   
+}
+}

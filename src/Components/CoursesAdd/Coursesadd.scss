@@ -1,0 +1,40 @@
+
+
+
+.courses-item{
+    font-size: 18px;
+    font-weight: 700;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.Nocourses-item{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;   
+    padding-bottom: 10px;
+}
+
+.add-courses{
+    color: #FFFFFF !important;
+    background-color: #1D366F !important;
+    width: 15%;
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.nocourses-added{
+    font-weight: 600;
+    font-size: medium;   
+    color: #262626;
+    display: flex;
+    justify-content: center !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.main-courses{
+    padding: 100px;
+}

@@ -1,0 +1,58 @@
+#instructor-courses {
+  padding-top: 70px;
+  .MuiContainer-root {
+    padding: 30px, 50px, 10px, 50px;
+    padding: 30px, 50px, 10px, 50px;
+  }
+  .course_button {
+    display: flex;
+    justify-content: space-between;
+  }
+  .number_of_courses {
+    color: #262626;
+    font-weight: 600;
+  }
+  .add_course {
+    background: #1d366f;
+  }
+  .search_select {
+    height: 2rem !important;
+  }
+  .search_courses {
+    .MuiOutlinedInput-root {
+      height: 36px;
+      width: 15rem;
+      margin-left: 6rem;
+      margin-top: 10px;
+      background-color: #FCFCFC;
+      opacity: 1;
+      border-radius: 10px;
+      border: #C9C9C9;
+    }
+  }
+  .sorting_courses {
+    margin-left: 2rem;
+    margin-top: 0.6rem;
+    .MuiInputBase-root{
+      border-radius: 10px;
+    }
+    .MuiInputLabel-root{
+      color: #262626;
+      opacity: 0.5;
+      font-size: 12px;
+    }
+
+ 
+  .MuiSelect-select{  
+    width: 85px;
+    padding-top: 14px;
+    padding-bottom: 0px;
+    border-radius: 10px;
+    border: #C9C9C9;
+    font-size: 14px;
+  }
+  
+}
+
+    
+}

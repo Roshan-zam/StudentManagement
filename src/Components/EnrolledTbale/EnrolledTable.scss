@@ -1,0 +1,20 @@
+#enrolledtab {
+  padding-top: 30px;
+  .view-profile {
+    padding-left: 15px;
+    color: #1d366f;
+    text-transform: capitalize;
+  }
+  .table-head{
+    background-color: #E7E7E7;
+    border-radius: 4px;
+  }
+  .table-headers{
+    color: #8C8C8C;
+    text-transform: uppercase;
+  }
+  .table-body{
+    background-color: #FFFFFF;
+    border-color: #F7F7F7;
+  }
+}

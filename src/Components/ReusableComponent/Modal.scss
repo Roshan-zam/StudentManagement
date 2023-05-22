@@ -1,0 +1,84 @@
+.main-cointainer {
+    margin-top: 12px;
+
+    .MuiButton-outlinedPrimary {
+        border: none !important;
+        color: #1D366F;
+    }
+
+    // .divider-item {
+    //     border: 1px solid rebeccapurple;
+    // }
+
+
+.modal-textfield {
+    .title-modal {
+        color: #666666;
+        font-size: 16px;
+    }
+
+    .text-inputfield {
+        .MuiOutlinedInput-input {
+            padding: 10px;
+        }
+    }
+}
+
+
+.select-duration {
+    width: 50%;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.time-duration {
+    padding: 7px;
+    border-radius: 5px;
+    color: #999999;
+    font-size: 19px;
+    width: 100%;
+}
+
+.day-addcourse {
+    font-size: 14px;
+    color: #666666;
+    font-weight: 500;
+    margin-left: 5px;
+}
+
+.Assessment-button{
+    margin-top: 12px !important;
+}
+
+.MuiOutlinedInput-input{
+    padding: 12px !important;
+}
+
+.drop-duration{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.dialog-divider{
+    padding:2px 24px!important;
+}
+
+.popup-editer{
+    color: #999999;
+    margin: 10px;
+}
+
+.cancle-model{
+    color: #262626 !important;
+    border-color: #1D366F !important;
+    font-weight: 500;
+    width: 100px;
+}
+
+.submit-modal{
+    background-color: #1D366F !important;
+    width: 100px;
+    height: 40px;
+}
+}
